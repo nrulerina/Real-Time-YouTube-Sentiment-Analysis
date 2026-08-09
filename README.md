@@ -7,29 +7,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R5aWF6YW93emZoNG41bDhneXg4MGxxaDlhb2U5MXdiaXpkdXJlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Nc3xlO1kGg3S/giphy.gif" width="300px" alt="Sentiment Analysis GIF">
 </div>
 <br>
-<table border="solid" align="center">
-  <tr>
-    <th>Name</th>
-    <th>Matric Number</th>
-  </tr>
-  <tr>
-    <td width=80%>NEO ZHENG WENG</td>
-    <td>A22EC0093</td>
-  </tr>
-  <tr>
-    <td width=80%>NURUL ERINA BINTI ZAINUDDIN</td>
-    <td>A22EC0254</td>
-  </tr>
-  <tr>
-    <td width=80%>MUHAMMAD SAFWAN BIN MOHD AZMI</td>
-    <td>A22EC0221</td>
-  </tr>
-  <tr>
-    <td width=80%>NUR ARINI FATIHAH BINTI MOHD SABIR</td>
-    <td>A22EC0244</td>
-  </tr>
-</table>
-
 
 ## 📌 Table of Contents
 
